@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://res.cloudinary.com/ds2neoo6i/image/upload/v1726393881/VirtuaVerse__Cyberpunk_and_Pixels_qfgq91.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Tanish Dadarya Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
