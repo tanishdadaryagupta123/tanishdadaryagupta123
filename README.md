@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishdadaryagupta123&show_icons=true&locale=en" alt="tanishdadaryagupta123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishdadaryagupta123&" alt="tanishdadaryagupta123" /></p>
+
+<img src="https://raw.githubusercontent.com/tanishdadaryagupta123/tanishdadaryagupta123/output/snake.svg" alt="Snake animation" />
