@@ -42,3 +42,5 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/tanishdadaryagupta123/tanishdadaryagupta123/output/snake.svg" alt="Snake animation" />
+
+[![An image of @tanishdadaryagupta123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanishdadaryagupta123)](https://holopin.io/@tanishdadaryagupta123)
