@@ -44,6 +44,12 @@
   style="height: 150px; border-radius: 5px; border: none;" 
 />
 
+ <h2 align="center">⚡ Leetcode Info ⚡</h2>  
+<p align="center">
+  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/user8795ta?theme=dark&font=Nunito" height="150" />  
+</p>
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishdadaryagupta123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
